@@ -23,7 +23,7 @@ body{
     border-radius: 12px;
     background-size: 100%;
     min-height: 70vh;
-    background-image: url('/coverPics/party2.jpg');
+    background-image: url('spotify-clone/coverPics/party2.jpg');
     background-repeat: none;
     z-index: 1;
 }
